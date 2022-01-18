@@ -1,0 +1,13 @@
+1. Try putting the bits/ folder in this location:
+    /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/
+
+2. Create stdc++.h inside the newly created bits/ folder:
+    https://github.com/tekfyl/bits-stdc-.h-for-mac/blob/master/stdc%2B%2B.h
+
+But the above method doesn't resolve other errors!
+
+Alternative solution:
+
+brew install gcc
+Use     : gcc-[version_number] [target_file] (or) g++-[version_number] [target_file]
+Example : gcc-11 a.cpp (or) g++-11 a.cpp
