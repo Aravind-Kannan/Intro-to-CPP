@@ -26,6 +26,10 @@ star:
 	/Users/aravind/Code/simplecpp/s++ star.cpp -o star.out
 	./star.out
 
+circle7:
+	/Users/aravind/Code/simplecpp/s++ circle7.cpp -o circle7.out
+	./circle7.out
+
 # Reference: https://www.youtube.com/watch?v=_r7i5X0rXJk
 # target: dependencies
 # 	action
