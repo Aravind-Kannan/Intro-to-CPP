@@ -22,6 +22,10 @@ dottedSquare:
 	/Users/aravind/Code/simplecpp/s++ dottedSquare.cpp -o dottedSquare.out
 	./dottedSquare.out
 
+star:
+	/Users/aravind/Code/simplecpp/s++ star.cpp -o star.out
+	./star.out
+
 # Reference: https://www.youtube.com/watch?v=_r7i5X0rXJk
 # target: dependencies
 # 	action
