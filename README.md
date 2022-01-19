@@ -27,6 +27,20 @@
 - `sin(x)`, `cos(x)`, `tan(x)`: `x` should be in radians
 - `penUp()`, `penDown()`: Causes the pen to be raised, lowered; drawing happens only if the turtle moves while the pen is low
 - `cin` and `cout`: used to accept input and produce output respectively
+- Statement/command terminated by `;`
+- Commands are executed from top to bottom. and left to right
+- `Arguments`: additional data needed by command to do its work
+- `Syntax`: Grammatical rules indicating how commands must be written
+- `Comments`: Ignored by compiler, read by people
+  - `/* This is a multiline comment */`
+  - `// Single line comment until end of line`
+- `Indentation`: Spacing that allows human readers to read code more elegantly, if "X" inside "Y", then we give two spaces in before the start of "Y"
+- `Nested repeat` statements:
+  - `repeat(x) { yyy }` : execute `yyy` `x` times
+  - If `yyy` contains `repeat(w) { zzz }`, then the `zzz` is executed `w` times in each execution of `yyy`
+- `Control is at statement w`: Computer is currently executing statement w.
+- `Control flow`: The order in which statements get executed. Generally, top to bottom, gets retraced if repeat statement.
+- `Variable`: region of memory designated for storing some value you need.
 
 ### Lecture 2: Problem Solving using Computer
 
