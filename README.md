@@ -54,3 +54,5 @@
 - **Weather prediction**: Used to divide the surface of the earth into small regions. Each region is represented using `pressure`, `temperature` and `humidity`
 
 - **Language/text representation using numbers**: Each character is mapped to a number. For example, a traditional system that is followed is the ASCII (American Standard Code for Information Interchange)
+
+- **Historical remark**: Computers are used to solve problems, but problem solving is not new, humans have been solving numerical problems for millenia
