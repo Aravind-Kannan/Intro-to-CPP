@@ -44,4 +44,13 @@
 
 ### Lecture 2: Problem Solving using Computer
 
--
+- Modelling real life problems as mathematical problems on a high level overview basis
+- Remember: Computers are for computations
+- **Computer Vision/Image Processing:** Converting an black-white image into a sequence `0`s and `1`s
+
+  - **Grey scale:** We denote each pixel using "grey"ness values of `0.1` to `1.0`
+  - **Colored:** We represent each pixel using `red`, `blue` and `green` component to obtain the required mix
+
+- **Weather prediction**: Used to divide the surface of the earth into small regions. Each region is represented using `pressure`, `temperature` and `humidity`
+
+- **Language/text representation using numbers**: Each character is mapped to a number. For example, a traditional system that is followed is the ASCII (American Standard Code for Information Interchange)
